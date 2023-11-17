@@ -1,0 +1,59 @@
+# Ignore build dirs
+build/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-relwithdebinfo/
+cmake-build-minsizerel/
+xcuserdata
+
+# IntelliJ
+.idea/
+
+
+# Visual Studio things
+.vscode/
+.vs
+*.suo
+*.user
+Win32-Debug/
+Win32-Release/
+x64-Debug/
+x64-Release/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
